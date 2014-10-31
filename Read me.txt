@@ -1,0 +1,2 @@
+This project has the skeleton that is used in most Android projects. 
+Created so that developers don't have to set this all up everytime they create a new Android project.
